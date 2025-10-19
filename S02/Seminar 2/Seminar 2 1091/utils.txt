@@ -1,0 +1,5 @@
+https://dev.to/muhammedshameel/understanding-reference-vs-value-in-javascript-ab4
+https://www.w3schools.com/js/js_operators.asp
+https://deadsimplechat.com/blog/5-ways-to-convert-string-to-a-number-in-javascript/
+https://frontend.turing.edu/lessons/module-1/js-truthy-falsy-expressions.html
+https://www.w3schools.com/js/js_if_else.asp

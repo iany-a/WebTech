@@ -1,0 +1,40 @@
+Links on watsapp
+Cimpeanu
+
+
+4 assignments - 0.25p x 4
+
+other 4p - team project, max 3 person.
+can be made solo
+
+req on 1 nov
+
+node js spa and react js (?)
+
+
+some time we will not do the lab
+we will use discord
+
+
+
+Exam:
+Andrei Toma not happy with us (lol)
+exam is s project
+1 month before, we receive the github repo where the project is uploaded.
+we need to modify that code at the exam
+10 requests - 5 node js, 5 react js - front end side
+5 - back-end
+
+the projects are full of bugs which we need to report
+
+
+1st series employee table
+sorting, pagination, new columns, etc
+2nd series similar req, not with employee, maybe with food, based on first series completion
+
+need 5 in exam to pass.
+
+15th and 22nd oct - not attending the seminars, need reschedule / online class
+
+
+
