@@ -1,0 +1,32 @@
+Course 1 - Andrei Toma (NOT CriToma)
+web applications
+browser - 3 fundamental technologies:
+		-HTML
+		-CSS - presentation (design)
+		-
+
+team max 3 asap
+
+subjects for projects are randomly allocated
+e.g. follow the architecture, write this, etc
+20% of final grade
+
+10% bunch of HW
+
+Exam:b 1.5h
+1 app - communicated 1 month before the exam = baseline
+multiple series
+each series receives the start up the deliverable of the previous one.
+
+
+andrei.toma@ie.ase.ro
+
+-hw - need to play with docker
+
+UTF-8 needs to be specified in the head part of a web page for reading the text correctly.
+
+port - allows connection
+max of 1 app per port
+
+schema:://server:port/cale?parametri#fragment
+schema://server:port/path?parameters#fragment

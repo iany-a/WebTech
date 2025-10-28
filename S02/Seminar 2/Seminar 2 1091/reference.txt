@@ -1,0 +1,37 @@
+main() {
+	int x=3;
+
+	Person p = new Person()
+	p.name = "Ana"
+
+        string = "Ana" // string is a reference type
+	s += "aaaaa" // string is immutable, we can not update existing string, meaning a new object will be created instead (all in memory)
+
+	second (x,p)
+	console.log(x, p);
+}
+
+second(x, p){
+	x=5;
+	p.Name = "Geta";
+	s = "Mika";
+}
+
+
+class = a reference type
+struct = a value type, never NULL
+
+in JS we use var, const and let to declare values
+const can not be later changed
+
+var vs let: we will only use let
+
+
+string class has operators overload which will be executed with priority over the regular non-overloaded operator
+3+"3" = "33"
+3-"3" = 0 because there is no - overload sign for string, BUT numbers always try to substract a value when a "-" symbol is present, and the string will be attempted to be converted to a number.
+3 - "Ana" will throw an error Nan
+
+
+
+
