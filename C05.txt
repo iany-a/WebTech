@@ -1,0 +1,17 @@
+DOM properties
+childNodes - children contain the for HTML elements
+
+write something, press a button -> a new paragraph is added to the div
+inside <div id="output"> we now have <p>input text</p>
+
+this is done via a js script:
+button.onclick = function(){
+	const value = input.value.trim()
+	if (value){
+		const p=document.createElement('p')
+		p.textContent = value // safer than innrHTML
+		output.appendChild(p)
+		input.value=''
+	}
+}
+
